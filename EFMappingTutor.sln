@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMappingTutor", "EFMappingTutor\EFMappingTutor.csproj", "{49E2B5DE-8F66-4DD1-8873-7EBA20BA394D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindDomain", "NorthWindDomain\NorthWindDomain.csproj", "{C1221149-576F-446E-93C4-A3644C521367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationMapping", "RelationMapping\RelationMapping.csproj", "{4863DAF3-37D8-48E0-8181-DDCADF8B4A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E2B5DE-8F66-4DD1-8873-7EBA20BA394D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E2B5DE-8F66-4DD1-8873-7EBA20BA394D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E2B5DE-8F66-4DD1-8873-7EBA20BA394D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E2B5DE-8F66-4DD1-8873-7EBA20BA394D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1221149-576F-446E-93C4-A3644C521367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1221149-576F-446E-93C4-A3644C521367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1221149-576F-446E-93C4-A3644C521367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1221149-576F-446E-93C4-A3644C521367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4863DAF3-37D8-48E0-8181-DDCADF8B4A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4863DAF3-37D8-48E0-8181-DDCADF8B4A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4863DAF3-37D8-48E0-8181-DDCADF8B4A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4863DAF3-37D8-48E0-8181-DDCADF8B4A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
